@@ -49,3 +49,6 @@ This project demonstrates practical skills in business analytics and data visual
 ### Additional Dashboard Details
 
 ![Excel Dashboard Details](Screenshots/Excel_Dashboard_Details.png)
+### Power BI Dashboard
+
+![Power BI Dashboard](Screenshots/PowerBI_Dashboard.png)
