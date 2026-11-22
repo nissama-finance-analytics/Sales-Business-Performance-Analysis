@@ -40,3 +40,12 @@ This project demonstrates practical skills in business analytics and data visual
 
 **Project Category:** Business Analytics  
 **Tools:** Microsoft Excel and Power BI
+## 8. Dashboard Preview
+
+### Excel Sales and Business Performance Dashboard
+
+![Excel Dashboard](Screenshots/Excel_Dashboard.png)
+
+### Additional Dashboard Details
+
+![Excel Dashboard Details](Screenshots/Excel_Dashboard_Details.png)
